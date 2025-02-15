@@ -17,6 +17,8 @@
 
 This section shows how red pixels are detected and how interaction is provided only in those areas. Each mode has different features.
 
+GIFs might take a bit to load, so grab a coffee, kick back, and get ready to witness the beauty unfold!
+
 #### 1. **Basic Mode**  
    ![Red Pixel Filter Basic](assets/gif/red_pixel_filter_basic.gif)  
    *This GIF shows how red pixels are detected and focuses only on red regions.*
